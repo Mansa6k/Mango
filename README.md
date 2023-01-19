@@ -5,6 +5,7 @@ Requirements:Find properties that are viable investment opportunities in the San
 
 # Technologies
 This project leverages python 3.9.13 with the following tools:
+
  Import the required libraries and dependencies
  
 pandas,
