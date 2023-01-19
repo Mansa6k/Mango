@@ -1,19 +1,25 @@
-## Mango
-Module 6 Challenge for Columbia Fintech Bootcamp
+Module 6
+Module 6 Challenge: Visualizing and analyzing the real-estate data.
 
-#3Technologies
-This project is written in python 3.7 and uses the below technologies to run:
+Requirements:Find properties that are viable investment opportunities in the San Francisco market 
 
-[JupyterLab]
-[pandas]
-[dotenv]
-[plotly.express]
-#Installation Guide
-Before running the application, install the following dependencies.
+Technologies
+This project leverages python 3.9.13 with the following tools:
+# Import the required libraries and dependencies
+pandas
+hvplot
+pathlib 
+holoviews  
+geoviews
 
-  pip install jupyterlab
-  pip install pandas
-  pip install dotenv
-  pip install plotly.express
-Contributers
+
+Installation Guide
+No installation required
+
+Usage
+ To identify potential investment opportunities in the San Francisco real estate market.
+
+Contributors
 Andre Johnson
+License
+MIT
