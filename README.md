@@ -1,11 +1,11 @@
-Module 6
+# Module 6
 Module 6 Challenge: Visualizing and analyzing the real-estate data.
 
 Requirements:Find properties that are viable investment opportunities in the San Francisco market 
 
-Technologies
+# Technologies
 This project leverages python 3.9.13 with the following tools:
-# Import the required libraries and dependencies
+ Import the required libraries and dependencies
 pandas
 hvplot
 pathlib 
@@ -13,13 +13,13 @@ holoviews
 geoviews
 
 
-Installation Guide
+# Installation Guide
 No installation required
 
-Usage
+# Usage
  To identify potential investment opportunities in the San Francisco real estate market.
 
-Contributors
+# Contributors
 Andre Johnson
-License
+# License
 MIT
