@@ -8,18 +8,26 @@ This project leverages python 3.9.13 with the following tools:
 
  Import the required libraries and dependencies
  
-pandas,
-hvplot,
-pathlib,
-holoviews, 
+pandas
+
+hvplot
+
+pathlib
+
+holoviews
+
 geoviews
 
 
 # Installation Guide
 pip install pandas
+
 pip install hvplot
+
 pip install pathlib
+
 pip install holoviews
+
 pip install geoviews
 
 
